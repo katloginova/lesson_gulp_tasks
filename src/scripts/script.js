@@ -2,4 +2,6 @@
 
 $(() => {
     new TodosController($('.container #todoList'));
+
+    alert('hello world');
 });

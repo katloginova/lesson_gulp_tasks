@@ -30,5 +30,9 @@
     "gulp-sass": "^5.0.0",
     "gulp-uglify": "^3.0.2",
     "sass": "^1.37.5"
+  },
+  "dependencies": {
+    "browser-sync": "^2.27.5",
+    "jquery": "^3.6.0"
   }
 }
